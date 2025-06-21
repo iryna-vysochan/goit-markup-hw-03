@@ -325,7 +325,7 @@ color: #2e2f42;
       padding-bottom: 120px;
        width: 100%;
        margin: 0 auto;
-       border: 1px solid transparent;
+    border: 1px solid #e7e9fc;
        
    }
 
@@ -400,7 +400,7 @@ width: 100%;
         width: 100%;
         margin: 0 auto;
 }
-.footer-logo {
+.logo.footer-logo {
  
 margin-bottom: 16px;
 width: 115px;
